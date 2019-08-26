@@ -13,3 +13,16 @@ Lab 1:
   5) Program that calculates the coefficients a and b of a straight line: y = ax + b passing through two points. The coordinates of the two points are given by the user.  
   
   6) Program that computes the volume and surface area of a cone. Radius and height are given by the user.
+
+Lab 2:
+  1) Program that calculates he weighted arithmetic average of three grades, provided that weights are nonnegative and at least one weight is positive.
+  
+  2) Program that uses the switch statement to a numerical grade into a letter grade. 
+  
+  3) Program asks the user for the date in dd/mm/yy format and outputs it as "Dated this ___ day of ___ 20__".
+  
+  4) Program asks the user for the date in dd/mm/yy format and outputs which dates comes earlier in the calendar year.
+  
+  5) Program that calculates the area and perimeter of a triangle using Heron's formula. The user inputs the lengths of the triangle's sides.  
+  
+  6) Program that generates two random integers from the range [1,10] at a time e.g. 5, 7 and then asks the user "How much is 5 * 7?". After doing this 10 times, the user receives a grade based on how many out of the 10 questions were answered correctly.
