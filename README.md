@@ -26,3 +26,24 @@ Lab 2:
   5) Program that calculates the area and perimeter of a triangle using Heron's formula. The user inputs the lengths of the triangle's sides.  
   
   6) Program that generates two random integers from the range [1,10] at a time e.g. 5, 7 and then asks the user "How much is 5 * 7?". After doing this 10 times, the user receives a grade based on how many out of the 10 questions were answered correctly.
+
+Lab 3:
+  1) Program that is given two integers m and n and outputs first m multiples of n.
+  
+  2) Program that is given two integers m and n and outputs all positive multiples of m smaller than n.
+  
+  3) User is asked for one integer value n. Program outputs all even squares between 1 and n.
+  
+  4) Program computes the sum and arithmetic average of 10 integers given by the user using fixed length array.
+  
+  5) Program computes the sum and arithmetic average of n integers. n is given by the user.
+  
+  6) Program simplifies a fraction that is given by the user e.g. 4/18 --> 2/9.
+  
+  7) Program computes the greatest common diivisor of three integers.
+  
+  8) Program prints out the multiplication table from m to n onto the console. n and m are given by the user.
+  
+  9) Prints a one month calendar onto the console. User can select the month and the day of the week on which the month begins.
+  
+  10) User enters a positive number n and the program prints out the sum of all positive numbers smaller than n, which are relative prime with n.
