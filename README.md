@@ -27,6 +27,7 @@ Lab 2:
   
   6) Program that generates two random integers from the range [1,10] at a time e.g. 5, 7 and then asks the user "How much is 5 * 7?". After doing this 10 times, the user receives a grade based on how many out of the 10 questions were answered correctly.
 
+
 Lab 3:
   1) Program that is given two integers m and n and outputs first m multiples of n.
   
@@ -47,3 +48,13 @@ Lab 3:
   9) Prints a one month calendar onto the console. User can select the month and the day of the week on which the month begins.
   
   10) User enters a positive number n and the program prints out the sum of all positive numbers smaller than n, which are relative prime with n.
+  
+  
+  Lab 4:
+  1) Program asks user for 5 integers, stores them in a dynamic array and outputs the arithmetic average of all integers different than the greatest value, sum of all integers different than the greatest value and number of all integers different than the greatest value. Elements in array are accessed using pointers.
+  
+  2) One-dimensional array of dimension n is filled with random integers. Program outputs all pairs of integers in the array whose sum is equal to M. n and M are given by the user.
+  
+  3) Program finds and displays all prime numbers equal or less than n. n is given by the user.
+  
+  
