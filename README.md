@@ -58,3 +58,8 @@ Lab 3:
   3) Program finds and displays all prime numbers equal or less than n. n is given by the user.
   
   
+  Lab 5:
+  1) A two-dimensional array of n rows and m columns is filled with random integers. Program displays array, the row of the array with the largest sum, the column of the array with the smallet arithmetic average and all rows of the array with at least two even values. n and m is given by the user.
+  
+  2) User is asked to enter numbers to fill two arrays. User specifies the length of both arrays. Program outputs a rectangular multiplication table, multiplying both arrays with each other. 
+  
