@@ -65,3 +65,5 @@ Lab 3:
   
   3) Create a square n*n matrix and displays it on screen. User enters integer value for n. Program then outputs the sum of all values in the diagonal of the matrix, the sum of all values above the diagonal of the matrix and the sum of all values below the diagonal of the matrix.
   
+  4) Create a n*m matrix and an a*b matrix. Program outputs both matrices on the screen, multiplies them with each other and outputs the result. User specifies m, n, a and b.
+  
