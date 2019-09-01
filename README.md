@@ -67,3 +67,4 @@ Lab 3:
   
   4) Create a n*m matrix and an a*b matrix. Program outputs both matrices on the screen, multiplies them with each other and outputs the result. User specifies m, n, a and b.
   
+  5) Program generates a random walk across a 10*10 matrix and visually displays the walk on screen. At the beginning all elements of the matrix will be filled with a '.' character. As the program walks from element to element in the matrix, each walked over element will then be filled with a letter from 'A' to 'Z'.
