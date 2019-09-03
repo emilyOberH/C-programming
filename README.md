@@ -68,3 +68,7 @@ Lab 3:
   4) Create a n*m matrix and an a*b matrix. Program outputs both matrices on the screen, multiplies them with each other and outputs the result. User specifies m, n, a and b.
   
   5) Program generates a random walk across a 10*10 matrix and visually displays the walk on screen. At the beginning all elements of the matrix will be filled with a '.' character. As the program walks from element to element in the matrix, each walked over element will then be filled with a letter from 'A' to 'Z'.
+  
+  
+    Lab 6:
+  1) Program calculates the area and circumference of a rectangle. User is asked to enter all sides of the rectangle. Program checks if a rectangle can be constructed with the given sides, if so it performs the calculations for area and circumference, if not it notifies the user that two sides of equal length are needed to form a rectangle. User is askey if they want to repeat the program at the end (y/n). 
