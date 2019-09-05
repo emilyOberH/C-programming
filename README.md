@@ -1,7 +1,7 @@
 # Cprogramming
 Set of exercise solved in C
 
-Lab 1:
+    Lab 1:
   1) Program that asks the user for one integer number, one real number, one character and one C-style string and then outputs all these values given by the user.
   
   2) Program that outputs the value of a square function y=ax^2+bx+c. Values for a, b, c and x are given by the user. 
@@ -14,7 +14,7 @@ Lab 1:
   
   6) Program that computes the volume and surface area of a cone. Radius and height are given by the user.
 
-Lab 2:
+    Lab 2:
   1) Program that calculates he weighted arithmetic average of three grades, provided that weights are nonnegative and at least one weight is positive.
   
   2) Program that uses the switch statement to a numerical grade into a letter grade. 
@@ -28,7 +28,7 @@ Lab 2:
   6) Program that generates two random integers from the range [1,10] at a time e.g. 5, 7 and then asks the user "How much is 5 * 7?". After doing this 10 times, the user receives a grade based on how many out of the 10 questions were answered correctly.
 
 
-Lab 3:
+    Lab 3:
   1) Program that is given two integers m and n and outputs first m multiples of n.
   
   2) Program that is given two integers m and n and outputs all positive multiples of m smaller than n.
@@ -50,7 +50,7 @@ Lab 3:
   10) User enters a positive number n and the program prints out the sum of all positive numbers smaller than n, which are relative prime with n.
   
   
-  Lab 4:
+    Lab 4:
   1) Program asks user for 5 integers, stores them in a dynamic array and outputs the arithmetic average of all integers different than the greatest value, sum of all integers different than the greatest value and number of all integers different than the greatest value. Elements in array are accessed using pointers.
   
   2) One-dimensional array of dimension n is filled with random integers. Program outputs all pairs of integers in the array whose sum is equal to M. n and M are given by the user.
@@ -58,7 +58,7 @@ Lab 3:
   3) Program finds and displays all prime numbers equal or less than n. n is given by the user.
   
   
-  Lab 5:
+    Lab 5:
   1) A two-dimensional array of n rows and m columns is filled with random integers. Program displays array, the row of the array with the largest sum, the column of the array with the smallet arithmetic average and all rows of the array with at least two even values. n and m is given by the user.
   
   2) User is asked to enter numbers to fill two arrays. User specifies the length of both arrays. Program outputs a rectangular multiplication table, multiplying both arrays with each other. 
