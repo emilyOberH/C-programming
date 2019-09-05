@@ -74,3 +74,5 @@ Lab 3:
   1) Program calculates the area and circumference of a rectangle. User is asked to enter all sides of the rectangle. Program checks if a rectangle can be constructed with the given sides, if so it performs the calculations for area and circumference, if not it notifies the user that two sides of equal length are needed to form a rectangle. User is askey if they want to repeat the program at the end (y/n). 
   
   2) Program generates an array with random integers using the function generateArray, displays it with function displayArray and reverses the array with function reverseArray. User specifies the length of array.
+  
+  3) User is asked to enter a positive integer n and outputs all factors of n and whether n is a prime number or not. 
