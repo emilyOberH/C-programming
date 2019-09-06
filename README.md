@@ -76,3 +76,5 @@ Set of exercise solved in C
   2) Program generates an array with random integers using the function generateArray, displays it with function displayArray and reverses the array with function reverseArray. User specifies the length of array.
   
   3) User is asked to enter a positive integer n and outputs all factors of n and whether n is a prime number or not. 
+  
+  4) User is asked to enter 3 numbers and program informs the user about the average, sum and largest number. Program calls functions averageOf3, sumOf3 and largestOf3 outside the main function to do so.
