@@ -78,3 +78,7 @@ Set of exercise solved in C
   3) User is asked to enter a positive integer n and outputs all factors of n and whether n is a prime number or not. 
   
   4) User is asked to enter 3 numbers and program informs the user about the average, sum and largest number. Program calls functions averageOf3, sumOf3 and largestOf3 outside the main function to do so.
+
+  5) User is asked to enter the radius of a circle and program outputs the circumference and area of the circle by calling functions outside the main function. 
+  
+  6) Program asks user for a positive integer n and then calls a function that displays a triangle of '*' characters of heigth n on the left margin of the screen.
