@@ -82,3 +82,5 @@ Set of exercise solved in C
   5) User is asked to enter the radius of a circle and program outputs the circumference and area of the circle by calling functions outside the main function. 
   
   6) Program asks user for a positive integer n and then calls a function that displays a triangle of '*' characters of heigth n on the left margin of the screen.
+  
+  7) Modified version of previuos exercise to create a triangle out of any character. User enters character c and program displays triangle made up of the entered character.
