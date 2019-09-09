@@ -84,3 +84,5 @@ Set of exercise solved in C
   6) Program asks user for a positive integer n and then calls a function that displays a triangle of '*' characters of heigth n on the left margin of the screen.
   
   7) Modified version of previuos exercise to create a triangle out of any character. User enters character c and program displays triangle made up of the entered character.
+
+  8) Program asks user for a positive integer n and then calls a function that displays a diamond shape made out of '*' characters of heigth n.
