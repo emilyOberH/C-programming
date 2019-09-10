@@ -86,3 +86,5 @@ Set of exercise solved in C
   7) Modified version of previuos exercise to create a triangle out of any character. User enters character c and program displays triangle made up of the entered character.
 
   8) Program asks user for a positive integer n and then calls a function that displays a diamond shape made out of '*' characters of heigth n.
+  
+  9) A parkin garage charges a minimum fee of 20$ to park up to 3 hours. Every additional hour adds an additional 5$ to the price, with 50$ being the maximum charge possible. User enters the hours parked by each customer all separated by a space character and the program displays the price to charge each cusumer, as well as the sum of all prices and hours combined.
