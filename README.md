@@ -88,3 +88,7 @@ Set of exercise solved in C
   8) Program asks user for a positive integer n and then calls a function that displays a diamond shape made out of '*' characters of heigth n.
   
   9) A parkin garage charges a minimum fee of 20$ to park up to 3 hours. Every additional hour adds an additional 5$ to the price, with 50$ being the maximum charge possible. User enters the hours parked by each customer all separated by a space character and the program displays the price to charge each cusumer, as well as the sum of all prices and hours combined.
+  
+  
+    Lab 7:
+  1) Program creates an array of size 10, populated with integers from the range[-25, 25]. Program informs the user about the number of even intgers present and creates a new array containing only the even integers from the original array. The condition to determine whether an integer is even or not, is passed to the function countIfEven and the function copyIfEven by a pointer to a one-parameter function that returns a bool value.
