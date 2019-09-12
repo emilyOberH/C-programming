@@ -91,4 +91,6 @@ Set of exercise solved in C
   
   
     Lab 7:
-  1) Program creates an array of size 10, populated with integers from the range[-25, 25]. Program informs the user about the number of even intgers present and creates a new array containing only the even integers from the original array. The condition to determine whether an integer is even or not, is passed to the function countIfEven and the function copyIfEven by a pointer to a one-parameter function that returns a bool value.
+  1) Program creates an array of size 10, populated with random integers from the range[-25, 25]. Program informs the user about the number of even intgers present and creates a new array containing only the even integers from the original array. The condition to determine whether an integer is even or not, is passed to the function countIfEven and the function copyIfEven by a pointer to a one-parameter function that returns a bool value.
+  
+  2) Program creates an array of size 4*5, containing random integers from the range[-5, 5]. The array itself, the number of positive integers contained in each column and the number of positive integers contained in each row is displayed on screen. 
