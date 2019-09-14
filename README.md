@@ -96,3 +96,7 @@ Set of exercise solved in C
   2) Program creates an array of size 4*5, containing random integers from the range[-5, 5]. The array itself, the number of positive integers contained in each column and the number of positive integers contained in each row is displayed on screen. 
   
   3) Program reads n integers that are given by the user and stored them in a one-dimensional array. Program displays the smallest value, largest value, the average of positive non-zero values and the number of positive values in array greater than 0. The conditions to determine whether an integer is even or not, is passed to the functions by a pointer to a one-parameter function that returns a bool value.
+  
+  
+    Lab 8:
+  1) A structure is defined to represent a fraction. User is asked to enter integers for the nominator and denominator of two fractions A and B. Program computes the sum, difference, product and quotient of A and B.
