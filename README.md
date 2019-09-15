@@ -100,3 +100,5 @@ Set of exercise solved in C
   
     Lab 8:
   1) A structure is defined to represent a fraction. User is asked to enter integers for the nominator and denominator of two fractions A and B. Program computes the sum, difference, product and quotient of A and B.
+  
+  2) A structure is defined to represent a fraction. User is asked to enter integers for the nominator and denominator of n fractions. Program finds and displays the largest fraction.
