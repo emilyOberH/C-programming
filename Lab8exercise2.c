@@ -8,17 +8,12 @@ struct Fraction {
 
 typedef struct Fraction Fraction;
 
-int lcd(int, int);
-void sum(Fraction *,Fraction *);
-void difference(Fraction *,Fraction *);
-void product(Fraction *,Fraction *);
-void quotient(Fraction *,Fraction *);
 void askUser(Fraction *, int);
 void printFrac(Fraction *, int);
 void largestFrac(Fraction *, int);
 
 int main(){
-    int n = 2;
+    int n = 5;
     Fraction *A = (Fraction*)malloc(n*sizeof(Fraction));
 
     askUser(A, n);
