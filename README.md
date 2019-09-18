@@ -95,7 +95,9 @@ Set of exercise solved in C
   
   2) Program creates an array of size 4*5, containing random integers from the range[-5, 5]. The array itself, the number of positive integers contained in each column and the number of positive integers contained in each row is displayed on screen. 
   
-  3) Program reads n integers that are given by the user and stored them in a one-dimensional array. Program displays the smallest value, largest value, the average of positive non-zero values and the number of positive values in array greater than 0. The conditions to determine whether an integer is even or not, is passed to the functions by a pointer to a one-parameter function that returns a bool value.
+  3) Program reads n integers that are given by the user and stores them in a one-dimensional array. Program displays the smallest value, largest value, the average of positive non-zero values and the number of positive values in array greater than 0. The condition to determine whether an integer is even or not, is passed to the functions by a pointer to a one-parameter function that returns a bool value.
+  
+  4) Program reads n integers that are given by the user and stores them in a one-dimensional array. Program displays the array, the number of values that meet the condition of being positive and even, and the sum as well as the arithmetic average of all values meeting the condition. The condition is passed to the functions by a pointer to a one-parameter function that returns a bool value.
   
   
     Lab 8:
@@ -103,4 +105,4 @@ Set of exercise solved in C
   
   2) A structure is defined to represent a fraction. User is asked to enter integers for the nominator and denominator of n fractions. Program finds and displays the largest fraction.
 
-  3)(multi-file program)A structure named Point represents the coordinates of a point on a plane. User is asked to enter a point and the program outputs the distance from the point of origin(0, 0) to the entered point. Next the user is asked to enter the values for an array of n points. Program computes and displays the point with the shortest distance to the very first point entered.
+  3) (multi-file program)A structure named Point represents the coordinates of a point on a plane. User is asked to enter a point and the program outputs the distance from the point of origin(0, 0) to the entered point. Next the user is asked to enter the values for an array of n points. Program computes and displays the point with the shortest distance to the very first point entered.
