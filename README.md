@@ -99,6 +99,8 @@ Set of exercise solved in C
   
   4) Program reads n integers that are given by the user and stores them in a one-dimensional array. Program displays the array, the number of values that meet the condition of being positive and even, and the sum as well as the arithmetic average of all values meeting the condition. The condition is passed to the functions by a pointer to a one-parameter function that returns a bool value.
   
+  5) Program creates random integers and stores them in an array of dimension n. n is given by the user. Then program sorts all numbers in non-decrasing order using the bubble-sort algorithm and displays the sorted array on screen.
+  
   
     Lab 8:
   1) A structure is defined to represent a fraction. User is asked to enter integers for the nominator and denominator of two fractions A and B. Program computes the sum, difference, product and quotient of A and B.
