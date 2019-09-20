@@ -101,6 +101,8 @@ Set of exercise solved in C
   
   5) Program creates random integers and stores them in an array of dimension n. n is given by the user. Then program sorts all numbers in non-decrasing order using the bubble-sort algorithm and displays the sorted array on screen.
   
+  6) Program creates random integers and stores them in an array of dimension n. n is given by the user. Then program sorts all numbers in non-decrasing order using the quick-sort algorithm (with qsort function from C library and a custom compare function) and displays the sorted array on screen.
+  
   
     Lab 8:
   1) A structure is defined to represent a fraction. User is asked to enter integers for the nominator and denominator of two fractions A and B. Program computes the sum, difference, product and quotient of A and B.
