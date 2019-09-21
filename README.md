@@ -110,3 +110,5 @@ Set of exercise solved in C
   2) A structure is defined to represent a fraction. User is asked to enter integers for the nominator and denominator of n fractions. Program finds and displays the largest fraction.
 
   3) (multi-file program)A structure named Point represents the coordinates of a point on a plane. User is asked to enter a point and the program outputs the distance from the point of origin(0, 0) to the entered point. Next the user is asked to enter the values for an array of n points. Program computes and displays the point with the shortest distance to the very first point entered.
+  
+  4) (multi-file program)A structure named Point represents the coordinates of a point on a plane. Program finds out how many points from an array of points of size n lie in a circle.
