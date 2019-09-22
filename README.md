@@ -112,3 +112,8 @@ Set of exercise solved in C
   3) (multi-file program)A structure named Point represents the coordinates of a point on a plane. User is asked to enter a point and the program outputs the distance from the point of origin(0, 0) to the entered point. Next the user is asked to enter the values for an array of n points. Program computes and displays the point with the shortest distance to the very first point entered.
   
   4) (multi-file program)A structure named Point represents the coordinates of a point on a plane. Program finds out how many points from an array of points of size n lie in a circle.
+  
+  
+      Lab 9:
+  1) A structure is defined to represent a Student, which is composed of data representing name, surname, year of birth, year of study, sum of ECTS points and average of grades. 
+  
