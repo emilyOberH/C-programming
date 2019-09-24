@@ -41,7 +41,7 @@ int main(){
         if(distance(*walker, origin.center)>origin.radius){
             printf(" NOT");
         }
-        printf(" in or on he circle.");
+        printf(" in or on the circle.");
         ++walker;
     }
 
