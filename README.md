@@ -115,5 +115,5 @@ Set of exercise solved in C
   
   
     Lab 9:
-  1) A structure is defined to represent a Student, which is composed of data representing name, surname, year of birth, year of study, sum of ECTS points and average of grades. User is asked to enter information for n number of students. Program displays the information about all students on the screen, finds and displays the information about the best student and finds and displays the global average of all students.
+  1) A structure is defined to represent a Student, which is composed of data representing name, surname, year of birth, year of study, sum of ECTS points and average of grades. User is asked to enter information for n number of students. n is given by user. Program displays the information about all students on the screen, finds and displays the information about the best student and finds and displays the global average of all students.
   
