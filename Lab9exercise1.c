@@ -99,5 +99,5 @@ void globalAverage(Student *A, int n){
         avg += (*walker).average;
         ++walker;
     }
-    printf("\nGlobal average of all students is: %g", avg);
+    printf("\nGlobal average of all students is: %g", avg/n);
 }
