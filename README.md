@@ -121,3 +121,6 @@ Set of exercise solved in C
   
   3) A structure is defined to represent a Participant, which is composed of data representing the name, grade for task 1, grade for task 2, grade for task 3 and the sum of all three grades. User is asked to enter information for n number of participants. n is given by user. Program displays the information about all participants on the screen, finds participants with a grade average higher than the global average of all participanta and writes their data into a text file. The file will be placed in the same folder as the program it is in.
   
+  
+    Lab 10:
+  1) Program creates a file named "story.txt" and appends n lines of text to it, each time the program is called. n is given by the user. The entire file is displayed on the screen, as well as the number of lines in the current version of the file. All contents from file "story.txt" are then copied to file "story_copy.txt". 
