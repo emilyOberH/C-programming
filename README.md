@@ -126,3 +126,5 @@ Set of exercise solved in C
   1) Program creates a file named "story.txt" and appends n lines of text to it, each time the program is called. n is given by the user. The entire file is displayed on the screen, as well as the number of lines in the current version of the file. All contents from file "story.txt" are then copied to file "story_copy.txt". 
   
   2) Program creates a file named "numbers.txt" and appends n numbers to it, each time the program is called. n and each individual number is given by the user. The entire file is displayed on the screen, as well as the arithmetic average of all numbers in the current version of the file. All numbers greater than this average from file "numbers.txt" are then copied to file "greater_than_average.txt".
+  
+  3) Program reads contents from a file named "file1.c" and copies its content to "copy_file1.c", adding the line number at the beginning of each line.
