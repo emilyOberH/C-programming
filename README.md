@@ -130,3 +130,6 @@ Set of exercise solved in C
   3) Program reads contents from a file named "file1.c" and copies its content to "copy_file1.c", adding the line number at the beginning of each line.
   
   4) Program merges contents from file "file1.c" and file "file2.c" and copies them into file "merge.txt". Program then displays contents of file "merge.txt" on screen.
+  
+  5) In file "averages" the id numbers and grades of students are stored in the format "%d;%f\n". Program reads file line by line and diaplays all studensts with their id, their average and the global average of all students together.
+
