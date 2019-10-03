@@ -133,3 +133,7 @@ Set of exercise solved in C
   
   5) In file "averages" the id numbers and grades of students are stored in the format "%d;%f\n". Program reads file line by line and diaplays all studensts with their id, their average and the global average of all students together.
 
+
+    Lab 11:
+  1) In file "listOfStudents.txt" all information about each individual student is stored in the format "%s;%s;%d;%d;%d;%lf\n". Program reads file line by line and diaplays all studensts and their information on screen. It then copies all students above a certain grade average (given by the user) into a new file and displays them on screen. 
+ 
