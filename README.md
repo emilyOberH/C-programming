@@ -136,4 +136,6 @@ Set of exercise solved in C
 
     Lab 11:
   1) In file "listOfStudents.txt" all information about each individual student is stored in the format "%s;%s;%d;%d;%d;%lf\n". Program reads file line by line and diaplays all studensts and their information on screen. It then copies all students above a certain grade average (given by the user) into a new file and displays them on screen. 
+  
+  2) Program reads and displays file "sentences.txt" as well as the number of characters, lines, spaces and letters on screen.
  
