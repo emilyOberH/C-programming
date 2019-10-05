@@ -23,6 +23,7 @@ void display(FILE *file, bool (*func) (char, char)){
     int letters = 0;
     while((c=getc(file))!=EOF){
         if(func(c, '\n')){
+            --chars;
             ++lines;
         }
         if(func(c, ' ')){
