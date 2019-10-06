@@ -143,5 +143,5 @@ Set of exercise solved in C
   
   4) Program reads and displays file "Alice_Merton_song.txt" and displays the number of words, characters, lines and letters on screen.
   
-  4) Program reads and displays file "Alice_Merton_song.txt" and creates and a version of this file with only capital letters instead of lower case letters. User is asked for the name of the new file.
+  5) Program reads and displays file "Alice_Merton_song.txt" and creates and a version of this file with only capital letters instead of lower case letters. User is asked for the name of the new file.
  
