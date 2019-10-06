@@ -142,4 +142,6 @@ Set of exercise solved in C
   3) After the program reads and displays the contents of file "sentences.txt", it asks the user for a name of a new file. It then creates a file with the given name and copies every line from file "sentences.txt" that contains at least one occurrence of string str. str is given by th user.
   
   4) Program reads and displays file "Alice_Merton_song.txt" and displays the number of words, characters, lines and letters on screen.
+  
+  4) Program reads and displays file "Alice_Merton_song.txt" and creates and a version of this file with only capital letters instead of lower case letters. User is asked for the name of the new file.
  
