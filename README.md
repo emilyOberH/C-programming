@@ -145,3 +145,4 @@ Set of exercise solved in C
   
   5) Program reads and displays file "Alice_Merton_song.txt" and creates and a version of this file with only capital letters instead of lower case letters. User is asked for the name of the new file.
  
+  6) Program reads and displays file "words.txt" and creates a version of this file containing only words that start with character ch. ch is given by the user.
