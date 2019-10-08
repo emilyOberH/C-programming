@@ -148,3 +148,5 @@ Set of exercise solved in C
   6) Program reads and displays file "words.txt" and creates a version of this file containing only words that start with character ch. ch is given by the user.
   
   7) Program reads and displays file "words.txt" and creates a version of this file, where all letters that do no match the first or last letter in each line are replaced with a '*' character.
+  
+  8) Program reads file "students.txt" and creates a version of this file where all students are stored in a list, then displays contents of new file.
