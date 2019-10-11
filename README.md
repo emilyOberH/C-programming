@@ -151,4 +151,4 @@ Set of exercise solved in C
   
   8) Program reads file "students.txt" and creates a version of this file where all students are stored in a list, then displays contents of new file.
   
-  9) Program reads file "students.txt" and finds and displays the best student of each year, as well as the best student overall..
+  9) Program reads file "students.txt" and finds and displays the best student of each year, as well as the best student overall.
