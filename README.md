@@ -152,3 +152,7 @@ Set of exercise solved in C
   8) Program reads file "students.txt" and creates a version of this file where all students are stored in a list, then displays contents of new file.
   
   9) Program reads file "students.txt" and finds and displays the best student of each year, as well as the best student overall.
+  
+  
+      Lab 12:
+  1) Program reads binary file "numbers.bin" and displays the numbers stored in it as integers, as well as the sum and average of them. 
