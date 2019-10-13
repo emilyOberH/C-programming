@@ -155,4 +155,6 @@ Set of exercise solved in C
   
   
     Lab 12:
-  1) Program reads binary file "numbers.bin" and displays the numbers stored in it as integers, as well as the sum and average of them. 
+  1) Program reads binary file "numbers.bin" and displays the numbers stored in it as integers, as well as the sum and average of them.
+  
+  2) Program lets user write n integers into the binary file "mynumbers.bin". n is givin by the user. Program then displays the contents of the file.
