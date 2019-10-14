@@ -160,3 +160,5 @@ Set of exercise solved in C
   2) Program lets user write n integers into the binary file "mynumbers.bin". n is givin by the user. Program then displays the contents of the file.
   
   3) User is asked to enter the name and age of n number of people, then the program stores this information in an array of type struct and writes the array to a binary file. Program later reads contents of binary file and displays them.
+
+  4) Program opens binary file "WTAplayers.bin" and displays information about the first n players on screen. n is given by user. It stores those n players in an array of struct. Later, program finds the youngest player in the array and display their information on screen.
