@@ -158,3 +158,5 @@ Set of exercise solved in C
   1) Program reads binary file "numbers.bin" and displays the numbers stored in it as integers, as well as the sum and average of them.
   
   2) Program lets user write n integers into the binary file "mynumbers.bin". n is givin by the user. Program then displays the contents of the file.
+  
+  3) User is asked to enter the name and age of n number of people, then the program stores this information in an array of type struct and writes the array to a binary file. Program later reads contents of binary file and displays them.
