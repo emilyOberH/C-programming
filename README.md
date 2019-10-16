@@ -166,3 +166,5 @@ Set of exercise solved in C
   5) Program "Lab12exercise5.c" converts text file "listOfStudents.txt" into a binary file. Program "Lab12exercise5_read.c" reads the binary file and stores at most n students (n given by user) into an array of struct Students, then displays all students from  first, second and third year on screen.
   
   6) Program opens the "abbreviations.txt" text file and formats the contents in a cohesive way. The formatted version is then stored in the "abbreviations_formatted.txt" text file.
+  
+  7) Program opens the "abbreviations.txt" text file and modifies the contents, so that all characters before the first space character, together wth the space character, in each line are removed. The modified version is then stored in the "abbreviatios_modified.txt" text file.
