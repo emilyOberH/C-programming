@@ -1,0 +1,25 @@
+VGA Video Graphics Array
+CPU Central Processing Unit
+PDF Portable Document Format
+RAM Random Access Memory
+ROM Read Only Memory
+WYSIWYG What You See Is What You Get
+FTP File Transport Protocol
+HTML HyperText Markup Language
+HTTP HyperText Transfer Protocol
+IP Internet Protocol
+LAN Local Area Network
+URL Uniform Resource Locator
+WWW World Wide Web
+TIC Tongue In Cheek
+GSM Global System for Mobile communications
+USB Universal Serial Bus
+UTF Unicode Transformation Format
+VOD Video On Demand
+WAP Wireless Access Point
+Wi-Fi Wireless Fidelity
+FAQ Frequently Asked Question
+SQL Structured Query Language
+ASCII American Standard Code for Information Interchange
+ANSI American National Standards Institute
+PMP Portable Music Player
