@@ -164,3 +164,5 @@ Set of exercise solved in C
   4) Program opens binary file "WTAplayers.bin" and displays information about the first n players on screen. n is given by user. It stores those n players in an array of struct. Later, program finds the youngest player in the array and display their information on screen.
   
   5) Program "Lab12exercise5.c" converts text file "listOfStudents.txt" into a binary file. Program "Lab12exercise5_read.c" reads the binary file and stores at most n students (n given by user) into an array of struct Students, then displays all students from  first, second and third year on screen.
+  
+  6) Program opens the "abbreviations.txt" text file and formats the contents in a cohesive way. The formatted version is then stored in the "abbreviations_formatted.txt" text file.
